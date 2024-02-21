@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebListenerEvents:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WebListenerEvents</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WebListenerEvents-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WebListenerEvents:war exploded" />
+    </root>
+  </artifact>
+</component>
